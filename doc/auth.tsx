@@ -33,7 +33,10 @@
 
 //     // Split the URL by "/"
 //     const parts = url.split("/");
-    
+
+
+
+
 //     // Extract the parameters -----> From URL parameters 
 //     const companyId = parts[2];
 //     const token = parts[3];
