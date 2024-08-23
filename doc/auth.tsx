@@ -4,8 +4,7 @@
 // import axios from 'axios';
 // import "./style/home.css";
 // import Loader from "../components/Loader";
-// // import process from Nodejs.Process;
-
+// // import pr
 // const OAuthComponent = () => {
 //   const [error, setError] = useState('');
 //   const [pageLoading, setPageLoading] = useState(false);
