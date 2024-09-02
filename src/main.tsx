@@ -17,3 +17,7 @@ const rv = 10;
 
 //Working on PR Reaserch
 
+//creating new version of the code with more unused variables
+
+const rv2 = 20;
+ 
