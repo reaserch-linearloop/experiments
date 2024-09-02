@@ -15,8 +15,5 @@ createRoot(document.getElementById('root')!).render(
 
 const rv = 10;
 
-console.log(rv);
-=======
-
 //Working on PR Reaserch
 
