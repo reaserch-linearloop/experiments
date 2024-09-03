@@ -69,7 +69,7 @@ function TooManyProps(props: any) {
   return <div>{Object.values(props).join(', ')}</div>;
 }
 
-export default App;
 
+export default App;
 
 export default App;
