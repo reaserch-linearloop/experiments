@@ -3,7 +3,7 @@ name: New Branch
 on:
   push:
     branches:
-      - main
+      - new
 
 
 jobs:
