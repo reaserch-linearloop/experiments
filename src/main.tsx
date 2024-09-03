@@ -19,4 +19,14 @@ const rv4 = 40;
 
 const rv5 = 50;
 
+const rv6 = 60;
+
+const rv7 = 70;
+
+const rv8 = 80;
+
+const rv9 = 90;
+
+const rv10 = 100;
+
 //unused variables for testing the code
