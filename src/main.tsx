@@ -19,4 +19,6 @@ const rv4 = 40;
 
 const rv5 = 50;
 
+const rv6 = 60;
+
 //unused variables for testing the code
